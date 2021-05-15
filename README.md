@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saiteja
-- 👀 I’m interested in javascript, web, chess
-- 🌱 I’m currently learning typescript, css
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in problem solving, simplifying things and also in javascript, web, c#
+- 🌱 I’m currently deep diving into CSS and Angular v12
+- 💞️ I’m looking to collaborate on any angular libraries
 - 📫 How to reach me - 8147914152
 
 <!---
